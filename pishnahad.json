@@ -2,9 +2,8 @@
     "pishnahad": [
     {
       "id": "1",
-      "title": "روشویی ",
-      "src": "a6.jpg",
-      "price": 2200000,
+      "title": "بازی چیستان",
+      "src": "https://play-lh.googleusercontent.com/DXRcfGhVhVjPX7HgIPc3SiE_03_howKEN1XhF5SurH_K4SVVYEWRNtmz6Z9LcXsJ1fY=w526-h296-rw",
       "stars": [
         {
           "star": "1"
@@ -22,10 +21,8 @@
     },
     {
       "id": "2",
-      "title": "پایه ستون",
-      "src": "d.jpg",
-      "about": "my name ios zynab khashey",
-      "price": 1300000,
+      "title": "بازی پرسش و پاسخ",
+      "src": "https://4rahecomputer.com/wp-content/uploads/2019/01/answerqustion.jpg",
       "stars": [
         {
           "star": 1
@@ -46,9 +43,8 @@
     },
     {
       "id": "3",
-      "title": "پایه ایفون",
-      "src": "u.jpg",
-      "price": 1500000,
+      "title": "بازی رنگ",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVhZCNpdNNDjJKfhDgR62Hb2UqHjzdWFYVw&s",
       "stars": [
         {
           "star": "1"
@@ -66,9 +62,8 @@
     },
     {
       "id": "VISXawj",
-      "title": "ابنما",
-      "src": "h.jpg",
-      "price": 4500000,
+      "title": "ماشین حساب",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_a5bn-1zVlo3VsfYcaGeRgog9QWwRtalsg&s",
       "stars": [
         {
           "star": "1"
