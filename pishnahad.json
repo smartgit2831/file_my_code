@@ -4,6 +4,7 @@
       "id": "1",
       "title": "بازی چیستان",
       "src": "https://play-lh.googleusercontent.com/DXRcfGhVhVjPX7HgIPc3SiE_03_howKEN1XhF5SurH_K4SVVYEWRNtmz6Z9LcXsJ1fY=w526-h296-rw",
+      "link":"/chistan",
       "stars": [
         {
           "star": "1"
@@ -23,6 +24,7 @@
       "id": "2",
       "title": "بازی پرسش و پاسخ",
       "src": "https://4rahecomputer.com/wp-content/uploads/2019/01/answerqustion.jpg",
+      "link":"/question",
       "stars": [
         {
           "star": 1
@@ -45,6 +47,7 @@
       "id": "3",
       "title": "بازی رنگ",
       "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVhZCNpdNNDjJKfhDgR62Hb2UqHjzdWFYVw&s",
+      "link":"/gamecolor",
       "stars": [
         {
           "star": "1"
@@ -64,6 +67,7 @@
       "id": "VISXawj",
       "title": "ماشین حساب",
       "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_a5bn-1zVlo3VsfYcaGeRgog9QWwRtalsg&s",
+      "link":"/car",
       "stars": [
         {
           "star": "1"
